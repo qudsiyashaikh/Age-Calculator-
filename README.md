@@ -12,3 +12,15 @@ Features
 - Calculates accurate age in years
 - Clean and minimal UI
 - Responsive layout
+
+ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+ How to Use
+
+1. Select your birthdate using the date picker.
+2. Click on the **Calculate Age** button.
+3. Your age will be displayed on the screen.
